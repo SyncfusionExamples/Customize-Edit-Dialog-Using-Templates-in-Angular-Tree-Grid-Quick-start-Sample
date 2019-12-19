@@ -4,6 +4,7 @@ Use this sample to customize the edit dialog UI using templates in the Syncfusio
 In this example, we have added code for Tree Grid modules along with edit settings, a primary key, and toolbar. With this, you can quickly add code to follow the instructions provided in the following video link.
 
 Watch the video now: https://www.syncfusion.com/tutorial-videos/angular/treegrid?title=customize-edit-dialog-using-templates-in-angular-tree-grid
+
 Documentation: https://ej2.syncfusion.com/angular/documentation/treegrid/edit/#template-driven-forms
 
 ## Project prerequisites
